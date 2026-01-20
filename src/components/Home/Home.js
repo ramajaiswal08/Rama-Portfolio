@@ -5,12 +5,8 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import { SiLeetcode } from "react-icons/si";
-import Techstack from "../About/Techstack";
-import Github from "../About/Github";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 

@@ -23,7 +23,6 @@ import Tailwind from "../../Assets/TechIcons/Tailwind.svg";
 import MUI from "../../Assets/TechIcons/MUI.svg";
 import Postman from "../../Assets/TechIcons/Postman.svg";
 import AWS from "../../Assets/TechIcons/AWS.svg";
-import Kafka from "../../Assets/TechIcons/Kafka.svg";
 
 function Techstack() {
   return (
